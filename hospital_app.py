@@ -1,4 +1,3 @@
-
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -327,5 +326,4 @@ if submitted:
                 <strong>Powered by:</strong> Future Classroom ML
             </div>
         </div>
-        """, unsafe_allow_html=True)
         """, unsafe_allow_html=True)
